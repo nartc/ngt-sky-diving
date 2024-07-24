@@ -1,17 +1,12 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { SkyDiving } from './skydiving/skydiving';
 
 @Component({
 	selector: 'app-root',
 	standalone: true,
-	imports: [RouterOutlet],
+	imports: [SkyDiving],
 	template: `
-		<h1>Welcome to {{ title }}!</h1>
-
-		<router-outlet />
+		<app-sky-diving />
 	`,
-	styles: [],
 })
-export class AppComponent {
-	title = 'ngt-sky-diving';
-}
+export class AppComponent {}

@@ -17,6 +17,7 @@
 		"@angular/platform-browser": "^18.1.0",
 		"@angular/platform-browser-dynamic": "^18.1.0",
 		"@angular/router": "^18.1.0",
+		"@monogrid/gainmap-js": "^3.0.5",
 		"@pmndrs/vanilla": "^1.19.1",
 		"angular-three": "^2.0.0-beta.267",
 		"angular-three-postprocessing": "^2.0.0-beta.267",
@@ -27,6 +28,7 @@
 		"postprocessing": "^6.35.6",
 		"rxjs": "~7.8.0",
 		"three": "^0.166.1",
+		"three-mesh-bvh": "^0.6.8",
 		"three-stdlib": "^2.30.4",
 		"tslib": "^2.3.0",
 		"zone.js": "~0.14.3"
