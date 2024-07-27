@@ -74,5 +74,5 @@ export class Winds {
 	protected readonly DoubleSide = DoubleSide;
 	protected readonly AdditiveBlending = AdditiveBlending;
 
-	count = Array.from({ length: 130 }, (_, i) => i);
+	count = Array.from({ length: 200 }, (_, i) => i);
 }

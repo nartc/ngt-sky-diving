@@ -1,0 +1,179 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.5.2",
+  "deps": {
+    "@angular/animations": "^18.1.0",
+    "@angular/common": "^18.1.0",
+    "@angular/compiler": "^18.1.0",
+    "@angular/core": "^18.1.0",
+    "@angular/forms": "^18.1.0",
+    "@angular/platform-browser": "^18.1.0",
+    "@angular/platform-browser-dynamic": "^18.1.0",
+    "@angular/router": "^18.1.0",
+    "@monogrid/gainmap-js": "^3.0.5",
+    "@pmndrs/vanilla": "^1.19.1",
+    "angular-three": "^2.0.0-beta.267",
+    "angular-three-postprocessing": "^2.0.0-beta.267",
+    "angular-three-soba": "^2.0.0-beta.267",
+    "camera-controls": "^2.8.5",
+    "maath": "^0.10.8",
+    "ngxtension": "^4.0.0",
+    "postprocessing": "^6.35.6",
+    "rxjs": "~7.8.0",
+    "three": "^0.166.1",
+    "three-mesh-bvh": "^0.6.8",
+    "three-stdlib": "^2.30.4",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.3",
+    "@angular-devkit/build-angular": "^18.1.1",
+    "@angular/cli": "^18.1.1",
+    "@angular/compiler-cli": "^18.1.0",
+    "@types/three": "^0.166.0",
+    "prettier": "^3.3.3",
+    "prettier-plugin-organize-imports": "^4.0.0",
+    "typescript": "~5.5.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "18168400278403753650"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "834439359094761676"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "1931535514908259951"
+      },
+      {
+        "file": ".vscode/tasks.json",
+        "hash": "16682937833931988484"
+      },
+      {
+        "file": "README.md",
+        "hash": "12267267148585459401"
+      },
+      {
+        "file": "angular.json",
+        "hash": "14387630610276959637"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "1363252708531954244"
+      },
+      {
+        "file": "package.json",
+        "hash": "7145963173338838461"
+      },
+      {
+        "file": "public/env/nx.png",
+        "hash": "18018118097951037446"
+      },
+      {
+        "file": "public/env/ny.png",
+        "hash": "7199459431583531583"
+      },
+      {
+        "file": "public/env/nz.png",
+        "hash": "119951450063419845"
+      },
+      {
+        "file": "public/env/px.png",
+        "hash": "15843741277655074287"
+      },
+      {
+        "file": "public/env/py.png",
+        "hash": "9045643899797108809"
+      },
+      {
+        "file": "public/env/pz.png",
+        "hash": "6151524839610704702"
+      },
+      {
+        "file": "public/favicon.ico",
+        "hash": "3988961587069885523"
+      },
+      {
+        "file": "public/sky-texture.jpg",
+        "hash": "3717667443858023903"
+      },
+      {
+        "file": "public/skydiver.glb",
+        "hash": "931380698771863682"
+      },
+      {
+        "file": "public/texture/skydiver_BaseColor.webp",
+        "hash": "10913644745139573198"
+      },
+      {
+        "file": "public/texture/skydiver_Clothes.webp",
+        "hash": "8388477301159992025"
+      },
+      {
+        "file": "public/texture/skydiver_Metallic.webp",
+        "hash": "1097186722065943244"
+      },
+      {
+        "file": "public/texture/skydiver_Normal.webp",
+        "hash": "18309668572293184572"
+      },
+      {
+        "file": "public/texture/skydiver_Roughness.webp",
+        "hash": "18042800206461653845"
+      },
+      {
+        "file": "src/app/app.component.ts",
+        "hash": "7086490315572565859"
+      },
+      {
+        "file": "src/app/app.config.ts",
+        "hash": "11977166761662847032"
+      },
+      {
+        "file": "src/app/skydiving/scene-graph.ts",
+        "hash": "11179130063572644594"
+      },
+      {
+        "file": "src/app/skydiving/skydiver.ts",
+        "hash": "3358779049853266496"
+      },
+      {
+        "file": "src/app/skydiving/skydiving.ts",
+        "hash": "17144764983766038089"
+      },
+      {
+        "file": "src/app/skydiving/winds.ts",
+        "hash": "556362669425894768"
+      },
+      {
+        "file": "src/app/skydiving/world.ts",
+        "hash": "6592249728459295679"
+      },
+      {
+        "file": "src/index.html",
+        "hash": "2844328776716467130"
+      },
+      {
+        "file": "src/main.ts",
+        "hash": "5820911293985816677"
+      },
+      {
+        "file": "src/styles.css",
+        "hash": "15918383266949655294"
+      },
+      {
+        "file": "tsconfig.app.json",
+        "hash": "2846891570251349076"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "14138794491423940359"
+      }
+    ]
+  }
+}
